@@ -1,19 +1,19 @@
 # The Omnji dot Net
 Ayo gabung bersama Kami The Omnji dot Net untuk menikmati berbagi koneksi internet.
-Dengan biaya iuran 100rb perbulan anda sudah bisa menikmati internet dari rumah unlimited dengan perantara Router yang kami pasang di rumah anda. Sehingga anda dapat mengatur SSID dan Password sesuai dengan Keperluan Anda.
+Dengan biaya iuran 100rb perbulan anda sudah bisa menikmati internet dari rumah unlimited dengan perantara Router yang kami pasang di rumah anda. Sehingga anda dapat mengatur SSID dan Password sesuai dengan Kebutuhan Anda.
 
-Lokasi :
+<b>Lokasi :</b>
 Rusun Pinus Blok B1 No 212
 
-Biaya pemasangan :
+<b>Biaya pemasangan :</b>
 150rb 1 kali bayar.
 
-Coverage Area :
+<b>Coverage Area :</b>
 Rusun Pinus Blok B1 (Selama terjangkau sinyal kami)
 
-Disclaimer :
+<b>Disclaimer :</b>
 Kami bukan penyedia jasa Internet. 
 Koneksi yang kami berikan ke client dengan <b>Prinsip Patungan</b>.
 
-Di Kelola oleh :
+<b>Di Kelola oleh :</b>
 panjileksono@gmail.com
